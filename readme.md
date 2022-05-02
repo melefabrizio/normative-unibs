@@ -8,7 +8,7 @@ Potete segnalare eventuali errori, di battitura, di concetto o (ahimè) grammati
 
 Il pdf che state leggendo è il rendering di un sorgente markdown, qualora non vi piaccia il font, l'impaginazione o qualsiasi altra cosa scrivetemi e provvederò ad inviarvi il file *.md.
 
-Il materiale è pubblicato sotto licenza [Creative Commons Attribution 4.0](http://creativecommons.org/licenses/by/4.0/).
+Il materiale è pubblicato sotto licenza [Creative Commons Attribution 4.0](http://creativecommons.org/licenses/by/4.0/), ovvero farci quello che volete a patto di citare questo "github.com/melefabrizio/normative-unibs" come fonte.
 
 Dall'anno domini 2022 questi appunti sono anche disponibili su [Github](https://github.com/melefabrizio/normative-unibs). Pull requests accepted.
 
